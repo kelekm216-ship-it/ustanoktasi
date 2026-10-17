@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /ara/
+
+Sitemap: https://ustanoktasi.net.tr/sitemap.xml
